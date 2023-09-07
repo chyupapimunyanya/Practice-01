@@ -11,7 +11,7 @@ var exercisesSolved: Int =0
     age1= (18.0 + 30.0)/2//24
     //конец третьего и начало четвертого
     val testNumber: Int = 999
-    val evenOdd: Int = testNumber//меняет значение от 1 до 0
+    val evenOdd: Int = testNumber%2//меняет значение от 1 до 0
     //конец четвертого начало пятого
     var answer: Int=0
     answer +=1
